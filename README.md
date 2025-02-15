@@ -1,3 +1,1 @@
-# Seminar-session-2
-Introduction to Computer Science and its Applications(COMP1809)
-HI I AM HUY
+# [COMP-1752] Week 04 Exercise in testttt.py
