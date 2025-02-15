@@ -1,3 +1,4 @@
+#Nguyen_Tan_Huy
 class Student:
     def __init__(self, name=None, major=None, id=None):
         self.name = name
