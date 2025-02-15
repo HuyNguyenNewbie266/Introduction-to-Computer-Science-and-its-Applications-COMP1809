@@ -3,7 +3,6 @@ class Student:
         self.name = name
         self.major = major
         self.id = id
- 
 class FullTimeStudent(Student):
     def __init__(self, name=None, major=None, id=None, joined_project=None):
         super().__init__(name, major, id)
